@@ -23,6 +23,8 @@ http://50.7.220.74:8278/fyi_twn/playlist.m3u8?ct=17988&tid=18186902&tsum=7a21aba
 http://210.210.155.37/uq2663/h/h08/index.m3u8
 #EXTINF:-1 tvg-id="meWATCHLIVE1.sg" status="online",meWATCH LIVE 1 (1080p)
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
+#EXTINF:-1 tvg-id="NazalisHDTV.cg" status="online",Nazali's HDTV (1080p)
+http://194.163.135.238:5080/WebRTCApp/streams/590264631485484547459082.m3u8
 #EXTINF:-1 tvg-id="OneTVAsia.sg" status="blocked",ONE TV Asia (720p)
 http://198.16.64.10:8278/One/playlist.m3u8?ct=19225&tid=MB4B6226023862260238&tsum=a05a992f9150d8a389300bf4e108767f
 #EXTINF:-1 tvg-id="Suria.sg" status="blocked",Suria [Geo-blocked]
